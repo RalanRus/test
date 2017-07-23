@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Print("Hello World!")
 Print("Hello Everything!")
 Print("Hello, friend!")
+=======
+Print("Hello World!");
+Print("Hello Everything!");
+>>>>>>> master
