@@ -1,2 +1,6 @@
 Print("Hi")
+<<<<<<< HEAD
 Print("Hi again")
+=======
+Print("What's up?")
+>>>>>>> master
