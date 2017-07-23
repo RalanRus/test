@@ -1,2 +1,2 @@
-Print("Hello World!")
-Print("Hello Everything!")
+Print("Hello World!");
+Print("Hello Everything!");
